@@ -5,3 +5,7 @@ atlassian-ide-plugin.xml
 *.iml
 *.ipr
 *.iws
+.classpath
+.project
+.settings
+reports/
